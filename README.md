@@ -121,7 +121,7 @@ New Features in Version 1.1.1
 The Fuel SDK for python can be easily installed from the [Python Package Index](https://pypi.python.org/pypi) using the [pip](https://pip.readthedocs.org) command. Pip is a tool for installing and managing Python packages.
 
 ```
-pip install Salesforce-FuelSDK
+pip install Salesforce-FuelSDK-Sans
 ```
 
 ## Getting Started
